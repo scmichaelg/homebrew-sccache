@@ -7,7 +7,7 @@ class Sccache < Formula
   on_macos do
     on_arm do
       url "https://github.com/scmichaelg/sccache/releases/download/v0.14.1/sccache-v0.14.1-aarch64-apple-darwin.tar.gz"
-      sha256 "37c05ccdb17b99e0841167b3c366a8aa47e04d407aa88ad47179dfc5bcdeba66"
+      sha256 "85849b19373c8fce97cd2178f08ad1b7ebf18d4c12184c94f00b381661168f48"
     end
   end
 
